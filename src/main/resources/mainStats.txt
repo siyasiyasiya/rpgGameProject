@@ -1,0 +1,11 @@
+Siya
+210
+1
+30
+60
+102
+50
+10
+Spades
+1
+src/main/resources/Avatars/brownBoy.png
